@@ -1,50 +1,11 @@
-{"data":{"CaseID":"1","Activity":"Create Purchase Requisition","Resource":"Kim Passa","StartTimestamp":"2010-12-31 21:00:00","CompleteTimestamp":"2010-12-31 21:37:00","Role":"Requester"}
-{"CaseID":"1","Activity":"Create Request for Quotation Requester","Resource":"Kim Passa","StartTimestamp":"2011-01-01 02:37:00","CompleteTimestamp":"2011-01-01 02:45:00","Role":"Requester"}
-{"CaseID":"1","Activity":"Analyze Request for Quotation","Resource":"Karel de Groot","StartTimestamp":"2011-01-01 03:41:00","CompleteTimestamp":"2011-01-01 03:55:00","Role":"Purchasing Agent"}
-{"CaseID":"1","Activity":"Send Request for Quotation to Supplier","Resource":"Karel de Groot","StartTimestamp":"2011-01-01 08:43:00","CompleteTimestamp":"2011-01-01 09:09:00","Role":"Purchasing Agent"}
-{"CaseID":"1","Activity":"Create Quotation comparison Map","Resource":"Magdalena Predutta","StartTimestamp":"2011-01-01 09:32:00","CompleteTimestamp":"2011-01-01 13:03:00","Role":"Purchasing Agent"}
-{"CaseID":"1","Activity":"Analyze Quotation comparison Map","Resource":"Immanuel Karagianni","StartTimestamp":"2011-01-01 19:44:00","CompleteTimestamp":"2011-01-01 20:13:00","Role":"Requester"}
-{"CaseID":"1","Activity":"Choose best option","Resource":"Tesca Lobes","StartTimestamp":"2011-01-01 20:13:00","CompleteTimestamp":"2011-01-01 20:13:00","Role":"Requester"}
-{"CaseID":"1","Activity":"Settle conditions with supplier","Resource":"Francois de Perrier","StartTimestamp":"2011-01-01 22:22:00","CompleteTimestamp":"2011-01-02 06:20:00","Role":"Purchasing Agent"}
-{"CaseID":"1","Activity":"Create Purchase Order","Resource":"Karel de Groot","StartTimestamp":"2011-01-02 06:58:00","CompleteTimestamp":"2011-01-02 07:10:00","Role":"Purchasing Agent"}
-{"CaseID":"1","Activity":"Confirm Purchase Order","Resource":"Sean Manney","StartTimestamp":"2011-01-02 11:09:00","CompleteTimestamp":"2011-01-02 11:43:00","Role":"Supplier"}
-{"CaseID":"1","Activity":"Deliver Goods Services","Resource":"Sean Manney","StartTimestamp":"2011-01-02 17:49:00","CompleteTimestamp":"2011-01-03 00:37:00","Role":"Supplier"}
-{"CaseID":"1","Activity":"Release Purchase Order","Resource":"Elvira Lores","StartTimestamp":"2011-01-03 08:20:00","CompleteTimestamp":"2011-01-03 08:21:00","Role":"Requester"}
-{"CaseID":"1","Activity":"Approve Purchase Order for payment","Resource":"Karel de Groot","StartTimestamp":"2011-01-03 16:09:00","CompleteTimestamp":"2011-01-03 16:10:00","Role":"Purchasing Agent"}
-{"CaseID":"1","Activity":"Send invoice","Resource":"Kiu Kan","StartTimestamp":"2011-01-03 21:54:00","CompleteTimestamp":"2011-01-03 21:54:00","Role":"Supplier"}
-{"CaseID":"1","Activity":"Release Supplier's Invoice","Resource":"Karalda Nimwada","StartTimestamp":"2011-01-04 12:08:00","CompleteTimestamp":"2011-01-04 12:13:00","Role":"Financial Manager"}
-{"CaseID":"1","Activity":"Authorize Supplier's Invoice payment","Resource":"Karalda Nimwada","StartTimestamp":"2011-01-04 12:13:00","CompleteTimestamp":"2011-01-04 12:13:00","Role":"Financial Manager"}
-{"CaseID":"1","Activity":"Pay invoice","Resource":"Pedro Alvares","StartTimestamp":"2011-01-04 12:22:00","CompleteTimestamp":"2011-01-04 12:31:00","Role":"Financial Manager"}
-{"CaseID":"1","Activity":"End","Resource":"End","StartTimestamp":"2011-01-04 12:31:00","CompleteTimestamp":"2011-01-04 12:31:00","Role":"End"}
-{"CaseID":"39","Activity":"Create Purchase Requisition","Resource":"Nico Ojenbeer","StartTimestamp":"2011-01-05 02:55:00","CompleteTimestamp":"2011-01-05 03:47:00","Role":"Requester"}
-{"CaseID":"39","Activity":"Analyze Purchase Requisition","Resource":"Maris Freeman","StartTimestamp":"2011-01-05 13:25:00","CompleteTimestamp":"2011-01-05 13:30:00","Role":"Requester Manager"}
-{"CaseID":"39","Activity":"Create Request for Quotation Requester Manager","Resource":"Heinz Gutschmidt","StartTimestamp":"2011-01-05 13:34:00","CompleteTimestamp":"2011-01-05 13:36:00","Role":"Requester Manager"}
-{"CaseID":"39","Activity":"Analyze Request for Quotation","Resource":"Karel de Groot","StartTimestamp":"2011-01-07 00:15:00","CompleteTimestamp":"2011-01-07 00:25:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Amend Request for Quotation Requester","Resource":"Kim Passa","StartTimestamp":"2011-01-07 01:11:00","CompleteTimestamp":"2011-01-07 01:20:00","Role":"Requester Manager"}
-{"CaseID":"39","Activity":"Analyze Request for Quotation","Resource":"Francois de Perrier","StartTimestamp":"2011-01-07 17:35:00","CompleteTimestamp":"2011-01-07 17:53:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Amend Request for Quotation Requester","Resource":"Penn Osterwalder","StartTimestamp":"2011-01-07 18:48:00","CompleteTimestamp":"2011-01-07 19:02:00","Role":"Requester Manager"}
-{"CaseID":"39","Activity":"Analyze Request for Quotation","Resource":"Magdalena Predutta","StartTimestamp":"2011-01-07 22:24:00","CompleteTimestamp":"2011-01-07 22:56:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Send Request for Quotation to Supplier","Resource":"Karel de Groot","StartTimestamp":"2011-01-09 05:49:00","CompleteTimestamp":"2011-01-09 06:14:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Create Quotation comparison Map","Resource":"Magdalena Predutta","StartTimestamp":"2011-01-09 18:14:00","CompleteTimestamp":"2011-01-10 00:15:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Analyze Quotation comparison Map","Resource":"Esmana Liubiata","StartTimestamp":"2011-01-10 07:11:00","CompleteTimestamp":"2011-01-10 07:40:00","Role":"Requester"}
-{"CaseID":"39","Activity":"Choose best option","Resource":"Clement Duchot","StartTimestamp":"2011-01-10 07:40:00","CompleteTimestamp":"2011-01-10 07:40:00","Role":"Requester"}
-{"CaseID":"39","Activity":"Settle conditions with supplier","Resource":"Magdalena Predutta","StartTimestamp":"2011-01-10 22:59:00","CompleteTimestamp":"2011-01-11 07:59:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Create Purchase Order","Resource":"Magdalena Predutta","StartTimestamp":"2011-01-11 23:40:00","CompleteTimestamp":"2011-01-11 23:51:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Confirm Purchase Order","Resource":"Esmeralda Clay","StartTimestamp":"2011-01-12 11:21:00","CompleteTimestamp":"2011-01-12 11:42:00","Role":"Supplier"}
-{"CaseID":"39","Activity":"Deliver Goods Services","Resource":"Sean Manney","StartTimestamp":"2011-01-12 22:42:00","CompleteTimestamp":"2011-01-13 22:31:00","Role":"Supplier"}
-{"CaseID":"39","Activity":"Release Purchase Order","Resource":"Alberto Duport","StartTimestamp":"2011-01-14 06:40:00","CompleteTimestamp":"2011-01-14 06:41:00","Role":"Requester"}
-{"CaseID":"39","Activity":"Approve Purchase Order for payment","Resource":"Karel de Groot","StartTimestamp":"2011-01-14 10:12:00","CompleteTimestamp":"2011-01-14 10:13:00","Role":"Purchasing Agent"}
-{"CaseID":"39","Activity":"Send invoice","Resource":"Esmeralda Clay","StartTimestamp":"2011-01-14 20:18:00","CompleteTimestamp":"2011-01-14 20:18:00","Role":"Supplier"}
-{"CaseID":"39","Activity":"Release Supplier's Invoice","Resource":"Karalda Nimwada","StartTimestamp":"2011-01-15 10:41:00","CompleteTimestamp":"2011-01-15 10:48:00","Role":"Financial Manager"}
-{"CaseID":"39","Activity":"Authorize Supplier's Invoice payment","Resource":"Pedro Alvares","StartTimestamp":"2011-01-15 10:48:00","CompleteTimestamp":"2011-01-15 10:48:00","Role":"Financial Manager"}
-{"CaseID":"39","Activity":"Pay invoice","Resource":"Pedro Alvares","StartTimestamp":"2011-01-15 11:32:00","CompleteTimestamp":"2011-01-15 11:41:00","Role":"Financial Manager"}
-{"CaseID":"39","Activity":"End","Resource":"End","StartTimestamp":"2011-01-15 11:41:00","CompleteTimestamp":"2011-01-15 11:41:00","Role":"End"}
-{"CaseID":"575","Activity":"Create Purchase Requisition","Resource":"Alberto Duport","StartTimestamp":"2011-03-22 10:42:00","CompleteTimestamp":"2011-03-22 11:12:00","Role":"Requester"}
-{"CaseID":"575","Activity":"Analyze Purchase Requisition","Resource":"Heinz Gutschmidt","StartTimestamp":"2011-03-23 08:07:00","CompleteTimestamp":"2011-03-23 08:13:00","Role":"Requester Manager"}
-{"CaseID":"575","Activity":"Create Request for Quotation Requester Manager","Resource":"Maris Freeman","StartTimestamp":"2011-03-23 08:20:00","CompleteTimestamp":"2011-03-23 08:22:00","Role":"Requester Manager"}
-{"CaseID":"575","Activity":"Analyze Request for Quotation","Resource":"Francois de Perrier","StartTimestamp":"2011-03-26 15:53:00","CompleteTimestamp":"2011-03-26 16:12:00","Role":"Purchasing Agent"}
-{"CaseID":"575","Activity":"Amend Request for Quotation Requester","Resource":"Fjodor Kowalski","StartTimestamp":"2011-03-26 17:04:00","CompleteTimestamp":"2011-03-26 17:16:00","Role":"Requester Manager"}
-{"CaseID":"575","Activity":"Analyze Request for Quotation","Resource":"Francois de Perrier","StartTimestamp":"2011-03-27 13:51:00","CompleteTimestamp":"2011-03-27 14:31:00","Role":"Purchasing Agent"}
-{"CaseID":"575","Activity":"Send Request for Quotation to Supplier","Resource":"Francois de Perrier","StartTimestamp":"2011-03-27 16:06:00","CompleteTimestamp":"2011-03-27 16:26:00","Role":"Purchasing Agent"}
-{"CaseID":"575","Activity":"Create Quotation comparison Map","Resource":"Karel de Groot","StartTimestamp":"2011-03-27 18:27:00","CompleteTimestamp":"2011-03-27 20:44:00","Role":"Purchasing Agent"}
-{"CaseID":"575","Activity":"Analyze Quotation comparison Map","Resource":"Kim Passa","StartTimestamp":"2011-03-28 03:15:00","CompleteTimestamp":"2011-03-28 03:44:00","Role":"Requester"}}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
