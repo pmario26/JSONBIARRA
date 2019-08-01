@@ -1,4 +1,4 @@
-{"CaseID":"1","Activity":"Create Purchase Requisition","Resource":"Kim Passa","StartTimestamp":"2010-12-31 21:00:00","CompleteTimestamp":"2010-12-31 21:37:00","Role":"Requester"}
+{data:{"CaseID":"1","Activity":"Create Purchase Requisition","Resource":"Kim Passa","StartTimestamp":"2010-12-31 21:00:00","CompleteTimestamp":"2010-12-31 21:37:00","Role":"Requester"}
 {"CaseID":"1","Activity":"Create Request for Quotation Requester","Resource":"Kim Passa","StartTimestamp":"2011-01-01 02:37:00","CompleteTimestamp":"2011-01-01 02:45:00","Role":"Requester"}
 {"CaseID":"1","Activity":"Analyze Request for Quotation","Resource":"Karel de Groot","StartTimestamp":"2011-01-01 03:41:00","CompleteTimestamp":"2011-01-01 03:55:00","Role":"Purchasing Agent"}
 {"CaseID":"1","Activity":"Send Request for Quotation to Supplier","Resource":"Karel de Groot","StartTimestamp":"2011-01-01 08:43:00","CompleteTimestamp":"2011-01-01 09:09:00","Role":"Purchasing Agent"}
@@ -47,4 +47,4 @@
 {"CaseID":"575","Activity":"Analyze Request for Quotation","Resource":"Francois de Perrier","StartTimestamp":"2011-03-27 13:51:00","CompleteTimestamp":"2011-03-27 14:31:00","Role":"Purchasing Agent"}
 {"CaseID":"575","Activity":"Send Request for Quotation to Supplier","Resource":"Francois de Perrier","StartTimestamp":"2011-03-27 16:06:00","CompleteTimestamp":"2011-03-27 16:26:00","Role":"Purchasing Agent"}
 {"CaseID":"575","Activity":"Create Quotation comparison Map","Resource":"Karel de Groot","StartTimestamp":"2011-03-27 18:27:00","CompleteTimestamp":"2011-03-27 20:44:00","Role":"Purchasing Agent"}
-{"CaseID":"575","Activity":"Analyze Quotation comparison Map","Resource":"Kim Passa","StartTimestamp":"2011-03-28 03:15:00","CompleteTimestamp":"2011-03-28 03:44:00","Role":"Requester"}
+{"CaseID":"575","Activity":"Analyze Quotation comparison Map","Resource":"Kim Passa","StartTimestamp":"2011-03-28 03:15:00","CompleteTimestamp":"2011-03-28 03:44:00","Role":"Requester"}}
