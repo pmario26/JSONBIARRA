@@ -1,4 +1,4 @@
-{data:{"CaseID":"1","Activity":"Create Purchase Requisition","Resource":"Kim Passa","StartTimestamp":"2010-12-31 21:00:00","CompleteTimestamp":"2010-12-31 21:37:00","Role":"Requester"}
+{"data":{"CaseID":"1","Activity":"Create Purchase Requisition","Resource":"Kim Passa","StartTimestamp":"2010-12-31 21:00:00","CompleteTimestamp":"2010-12-31 21:37:00","Role":"Requester"}
 {"CaseID":"1","Activity":"Create Request for Quotation Requester","Resource":"Kim Passa","StartTimestamp":"2011-01-01 02:37:00","CompleteTimestamp":"2011-01-01 02:45:00","Role":"Requester"}
 {"CaseID":"1","Activity":"Analyze Request for Quotation","Resource":"Karel de Groot","StartTimestamp":"2011-01-01 03:41:00","CompleteTimestamp":"2011-01-01 03:55:00","Role":"Purchasing Agent"}
 {"CaseID":"1","Activity":"Send Request for Quotation to Supplier","Resource":"Karel de Groot","StartTimestamp":"2011-01-01 08:43:00","CompleteTimestamp":"2011-01-01 09:09:00","Role":"Purchasing Agent"}
